@@ -2,6 +2,8 @@
 
 Repository for the Write-A-Data-Scientist project of the Udacity Data Science Nanodegree 
 
+The Blog can be found at: https://graflinger.medium.com/why-is-the-covid-19-vaccine-not-distributed-equally-across-all-countries-668f53f8c0e3
+
 ## Installation
 This code was implemented using python 3.6.4
 
